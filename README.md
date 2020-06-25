@@ -9,3 +9,6 @@ Posteriormente se descargo la imagen que arrojaba la página de genemania que mo
 
 
 ![genemania-network (3)](https://user-images.githubusercontent.com/67028064/85806066-a5ac1000-b713-11ea-81eb-b715973600eb.jpg)
+
+
+![genemania-network](https://user-images.githubusercontent.com/67028064/85806235-14896900-b714-11ea-8ea4-7d9fbe3060b2.jpg)
